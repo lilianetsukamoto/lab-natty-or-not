@@ -1,16 +1,20 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo: Benefícios do uso da IA na saúde
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo apresenta alguns benefícios do uso da IA na área da saúde, como diagnóstico precoce e tratamento personalizado
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e uso de avatar virtual;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para me explicar em 2 parágrafos quais são os benefícios do uso da IA na saúde.
+No "D-ID", foi selecionado o avatar, a voz em português (BR), selecionado o background e copiado o conteúdo criado no "ChatGPT".
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vídeo disponível em:
+
+https://studio.d-id.com/share?id=4ca74d02ab7c8745a5a2f15909b3ba83&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com este projeto foi possível ter contato com as ferramentas de IA e perceber que podem ser usadas em qualquer área de atuação.
